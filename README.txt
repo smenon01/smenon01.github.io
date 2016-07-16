@@ -1,0 +1,4 @@
+This is the HTML/CSS lab for Web Programming, in which 3 personal web
+pages are created to make up a personal portfolio: resume, short bio, and and personal home page. The resume has the appropriate contents (name, education, professional experience, etc.), as do the short bio and the index page (name, photo, links). The index.html page should be accessed via the special repo made on GitHub. Styling is done through the CSS stylesheet, which has at least 5 rules. The HTML pages and CSS files should pass the validation requirements. Images and links should be created with relative URLs and all of the file names should be in the universal standard.
+
+Approximate time spent on project: 2-3 hours
