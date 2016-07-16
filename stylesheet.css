@@ -1,0 +1,16 @@
+/* Stylesheet */
+
+h1 {
+	color: #046E91;
+	font-family: "Book Antiqua";
+	text-align:  center;
+	font-size: 36px;
+
+}
+
+hr {
+	border: none;
+	color: #046E91;
+	background-color: #046E91;
+	height: 2px;
+}
