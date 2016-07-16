@@ -15,3 +15,9 @@ hr {
 	background-color: #046E91;
 	height: 2px;
 }
+
+h2 {
+	color: #046E91;
+	font-family: "Book Antiqua";
+	font-size: 25px;
+}
