@@ -46,3 +46,7 @@ div {
 .slant {
 	font-style: italic;
 }
+
+#centre {
+	text-align:  center;
+}
