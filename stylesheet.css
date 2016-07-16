@@ -42,3 +42,7 @@ div {
 	font-weight: bold;
 	font-size: 17px;
 }
+
+.slant {
+	font-style: italic;
+}
